@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝 &nbsp;Connect with me on 👇
 
 <p>
 <a href="https://linkedin.com/in/bharathmanjunatha"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
