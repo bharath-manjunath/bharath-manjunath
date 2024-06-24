@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning **DSA, Backend Development and DevOps tools**.
 - 👯 I’m looking to collaborate on realtime projects.
 - 🤔 I’m intersted in **Full Stack Development**.
-- 📫 How to reach me **bharathmanjunath7888@gmail.com**. 
+- 📫 How to reach me ➡️ **bharathmanjunath7888@gmail.com**. 
 <!--
 **bharath-manjunath/bharath-manjunath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
