@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 ### 🛠 &nbsp;Languages and Tools
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Go](http://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
 ![Expressjs](https://img.shields.io/badge/-Expressjs-181717?style=for-the-badge&logo=express)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff)
