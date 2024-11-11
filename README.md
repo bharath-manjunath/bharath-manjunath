@@ -1,5 +1,5 @@
 ### Hi there I'm Bharath Manjunath 👋
-- 🔭 I’m currently working at **Tata Communications Limited** as a **Platform Development Engineer Intern**.
+- 🔭 I’m currently working at **Tata Communications Limited** as a **Devops Engineer**.
 - 🌱 I’m currently learning **DSA, Backend Development and DevOps tools**.
 - 👯 I’m looking to collaborate on realtime projects.
 - 🤔 I’m intersted in **Full Stack Development**.
