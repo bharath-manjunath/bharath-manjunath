@@ -1,8 +1,7 @@
 ### Hi there I'm Bharath Manjunath 👋
-- 🔭 I’m currently working at **Tata Communications Limited** as a **Devops Engineer**.
-- 🌱 I’m currently learning **DSA, Backend Development and DevOps tools**.
+- 🔭 I’m currently working at **Tata Communications Limited** as a **Full Stack Developer**.
+- 🌱 I’m currently learning **DSA, Full Stack Development and DevOps tools**.
 - 👯 I’m looking to collaborate on realtime projects.
-- 🤔 I’m intersted in **Full Stack Development**.
 - 📫 How to reach me ➡️ **bharathmanjunath7888@gmail.com**. 
 <!--
 **bharath-manjunath/bharath-manjunath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +18,10 @@ Here are some ideas to get you started:
 ### 🛠 &nbsp;Languages and Tools
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Go](http://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=ffffff)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff)
 ![Expressjs](https://img.shields.io/badge/-Expressjs-181717?style=for-the-badge&logo=express)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff)
